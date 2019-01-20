@@ -1,2 +1,2 @@
 # react
-react learn
+好好学习
